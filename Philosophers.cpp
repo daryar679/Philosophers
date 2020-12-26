@@ -80,7 +80,7 @@ void Philosopher::Phil(size_t idx, const string& id)
 int main()
 {
 	srand(time(0));
-	Philosopher p;
+	Philosopher philosopher;
 
 	return 0;
 }
